@@ -1,0 +1,6 @@
+{
+    "name": "BX Token",
+    "symbol": "BXT",
+    "description": "A fungible Solana SPL token written in Solidity Solang:)",
+    "image": "https://www.blockchainx.tech/assets-new/images/logo-white.png"
+}
